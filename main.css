@@ -1,0 +1,65 @@
+body {background:url(../img/bg_body.gif) repeat-x top left; color:#575757; font:"å®‹ä½“"; font-size:12px;}
+* {margin:0; border:0; padding:0; text-decoration:none; list-style:none;}
+a,a:hover{color:#575757; text-decoration:none;}
+.head {width:679px; height:330px; background:url(../img/bg_head.jpg) no-repeat top left; padding-left:301px; padding-top:68px; margin:0 auto;}
+.menu {width:980px; height:39px; background:url(../img/bg_menu.gif) top left no-repeat; margin:0 auto;}
+.menu ul {padding-left:20px;}
+.menu ul li {width:118px; height:39px; line-height:39px; float:left; }
+.menu ul li a {color:#FFF; font-size:14px; text-align:center; display:block; font-weight:bold;}
+.menu ul li a:hover {background:url(../img/bg_li.gif) top center no-repeat;}
+.main {width:980px; margin:0 auto; height:auto;}
+.int {width:587px; height:240px; background:url(../img/icon2.gif) no-repeat right 59px; padding-left:17px; padding-top:27px; float:left; }
+.tit1 {width:543px; height:26px; }
+.news {width:349px; height:240px; padding:26px 0 0 17px; float:left;}
+.tit2 {width:320px; height:27px;}
+.news ul  {width:320px; padding-top:10px;}
+.news ul li { line-height:30px; background:url(../img/icon3.gif) no-repeat 5px 10px; padding-left:25px; text-align:right;}
+.news ul li a {color:#575757; float:left;}
+.int ul {width:580px; padding-top:10px;}
+.int ul li {background:url(../img/icon3.gif) no-repeat 5px 10px; padding-left:25px; width:265px; line-height:30px; float:left; text-align:right;}
+.int ul li a {color:#575757; float:left;}
+.show {width:976px; height:330px; margin:0 auto; margin-bottom:13px; line-height:30px; border:1px solid #ccebbf; background:url(../img/bg_show.jpg) no-repeat left top; float:left;}
+.show a { color:#FFF;}
+.title1 {width:930px; height:33px; line-height:33px; padding-left:36px; color:#FFF; font-size:14px;}
+.bottom {width:100%; height:29px; background:#328501; float:left; text-align:center; color:#FFF; line-height:29px;}
+.bottom  a{ color:#FFF;}
+.foot {width:100%; height:auto; line-height:24px; float:left; text-align:center;  padding-top:10px;}
+.news2 { width:auto; height:240px; padding-top:28px; padding-left:27px;}
+.news2 ul  {width:320px; padding-top:10px;}
+.news2 ul li { line-height:30px; background:url(../img/icon3.gif) no-repeat 5px 10px; padding-left:25px;}
+.news2 ul li a {color:#575757;}
+.title_tie2 {width:250px; height:27px;}
+.left {width:310px; height:auto; float:left; overflow:hidden;}
+.right {width:670px; float:left; overflow:hidden;}
+.xwzw2 {padding:10px 0 0 26px;}
+.xwzx ul  {width:320px; padding-left:26px; padding-top:10px; }
+.xwzx ul li { line-height:30px; background:url(../img/icon3.gif) no-repeat 5px 10px; padding-left:25px;}
+.xwzx ul li a {color:#575757;}
+.title_tit {margin-top:28px;width:590px; margin-left:26px; height:26px;}
+.text_gsjj {color:#000; font:"å®‹ä½“"; font-size:12px; line-height:25px; padding-left:26px; padding-top:10px; padding-right:25px;text-align:justify;text-justify:inter-ideograph; padding-bottom:10px; }
+.title {border-bottom:1px solid #dedede; padding-left:26px; background:url(../img/icon1.gif) no-repeat 3px top; color:#008238; font-size:14px; font-weight:bold; }
+.img1 {float:right; padding:9px 30px 30px 10px; }
+.text {line-height:26px; float:left; width:300px; padding-top:10px;text-align:justify;text-justify:inter-ideograph; text-indent:2em;}
+.col { color:#db0c0c; padding-left:19px;}
+.text2 {line-height:24px; padding-top:10px; }
+.img2 {padding:19px 0 0 14px;}
+.img3 {background:url(../img/img3.gif) right bottom no-repeat;}
+.new1 {
+	WIDTH: 615px;  overflow:hidden; margin-bottom:20px; padding-left:28px; padding-top:10px;}
+.new1 UL LI {
+	float:left;WIDTH: 615px; BORDER-BOTTOM: #cbcaca 1px solid;clear:both;text-align:right; line-height:26px;
+}
+.new1 UL LI a{
+	float:left;
+}
+.fy{ text-align:center; padding-bottom:20px;}
+.tp {
+	 margin-bottom:20px; overflow:hidden;WIDTH: 615px; margin-top:10px; padding-left:28px; line-height:28px;
+}
+.tp UL LI {
+	float:left; width:205px;  text-align:center;
+}
+.tp1 {
+	 margin-bottom:20px; overflow:hidden;WIDTH: 665px; margin-top:10px;
+}
+.tp1 img { width:200px; height:auto; margin:8px;}
